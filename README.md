@@ -25,6 +25,7 @@ App Engine application for the Udacity training course.
 1. (Optional) Generate your client library(ies) with [the endpoints tool][6].
 1. Deploy your application.
 
+This app has been deployed and can be accessed at https://conf-central-abhi.appspot.com
 
 [1]: https://developers.google.com/appengine
 [2]: http://python.org
